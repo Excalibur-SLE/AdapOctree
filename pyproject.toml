@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "adaptoctree"
 version = "1.3.0"
-description = "A description of your project"
+description = "Uniform and adaptive octrees in Python"
 authors = [
     { name = "Srinath Kailasa", email = "srinathkailasa@gmail.com" }
 ]
