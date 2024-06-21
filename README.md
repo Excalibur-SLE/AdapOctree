@@ -8,10 +8,9 @@ AdaptOctree is no longer directly supported, and serves now only as an example o
 
 # Installation
 
-Install into a conda/mini-conda environment
 
 ```bash
-conda install -c skailasa adaptoctree
+python -m pip install .
 ```
 
 # Usage
